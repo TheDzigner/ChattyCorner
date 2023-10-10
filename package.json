@@ -1,0 +1,19 @@
+{
+  "name": "chattycorner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Houndini",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^3.0.6",
+    "firebase": "^10.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
